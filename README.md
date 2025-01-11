@@ -8,8 +8,6 @@
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 The **Real-Time Weather App** is a simple and user-friendly application that provides real-time weather updates for any location around the globe. The app fetches weather data from a reliable API and displays key metrics like temperature, humidity, and weather conditions in an intuitive interface.
@@ -23,7 +21,7 @@ The **Real-Time Weather App** is a simple and user-friendly application that pro
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Fetch API
-- **Weather API:** OpenWeatherMap (or any other weather API being used)
+- **Weather API:** OpenWeatherMap
 
 ## Setup and Installation
 Follow these steps to set up the project locally:
